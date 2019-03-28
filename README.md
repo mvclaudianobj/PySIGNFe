@@ -1,3 +1,4 @@
+# [Em desenvolvimento para versão 4.0 da nf-e]
 PySIGNFe
 ============
 
